@@ -1,9 +1,9 @@
 body {
   font-family: 'Roboto', Helvetica, sans-serif;
-  background-color: grey;
+  background-color:white;
   margin: 0;
   padding: 0;
-  color: #111;
+  color:grey;
 }
 
 h1,
@@ -35,7 +35,7 @@ img {
   flex-wrap: wrap;
   margin: 0;
   padding: 0;
-  background-color: #222;
+  background-color: black;
 }
 
 .main-nav ul li {
